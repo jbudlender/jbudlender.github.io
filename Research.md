@@ -1,5 +1,5 @@
 layout: page
-title: "Research"
-permalink: /Research/
+title: "esearch"
+permalink: /research/
 
 This section also under construction.
