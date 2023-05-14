@@ -1,1 +1,1 @@
-This website is powered by [Jekyll](https://jekyllrb.com/) with an [al-folio](https://github.com/alshedivat/al-folio) theme plus some of my own hacky modifications. Hosted by [GitHub Pages](https://pages.github.com/) and [Afrihost](https://www.afrihost.com/).  
+This website is powered by [Jekyll](https://jekyllrb.com/) with an [al-folio](https://github.com/alshedivat/al-folio) theme plus some of my own hacky modifications. Hosted by [GitHub Pages](https://pages.github.com/).  
