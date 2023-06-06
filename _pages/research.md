@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-### Working Papers
+## Working Papers
 
 * * *
 
@@ -39,7 +39,7 @@ See my Op-Ed with Ihsaan Bassier and Andrew Kerr [[Op-Ed](https://www.dailymaver
 
 <br/><br/>
 
-### Other work in progress
+## Selected works in progress
 <small>(provisional titles)
 
 * * *
@@ -56,7 +56,7 @@ See my Op-Ed with Ihsaan Bassier and Andrew Kerr [[Op-Ed](https://www.dailymaver
 
 <br/><br/>
 
-### Journal Articles
+## Journal Articles
 
 * * *
 
@@ -74,7 +74,7 @@ _Development Policy Review_, 2018 (Vol. 36, Issue 3)
 
 <br/><br/>
 
-### Reports
+## Reports
 
 * * *
 
@@ -105,7 +105,7 @@ _SA-TIED working paper_, 2020
 
 <br/><br/>
 
-### Resting Papers
+## Resting Papers
 
 * * *
 

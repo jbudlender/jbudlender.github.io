@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: kashmir_crop.jpg
   address:  >
     <p><a style="font-family:monospace" href='mailto:jbudlender@umass.edu'>jbudlender@umass.edu</a></p>
     <p><a style="font-family:monospace" href='mailto:joshua.budlender@uct.ac.za'>joshua.budlender@uct.ac.za</a></p>

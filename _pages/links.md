@@ -6,6 +6,20 @@ description: A collection of useful links, partly for my own reference.
 nav: false
 ---
 
+## Software
+
+* * *
+
+[A short note](/largedatastata) with some tips I've put together for working with "large" datasets in Stata, which links to other resources.
+
+[Stata2R](https://stata2r.github.io/) provide a very helpful introduction to `data.table` and `fixest` in R, primarily designed for Stata users.  
+
+[Grant McDermott's](https://grantmcdermott.com/) [Data Science for Economists](https://github.com/uo-ec510-2020-spring/lectures) course is an excellent introduction to tools such as Git and tasks such as webscraping.
+
+* * *
+
+## Data
+
 * * *
 
 The single best source for South African microdata is the [DataFirst Data Portal](https://datafirst.uct.ac.za/dataportal/index.php/catalog/central).
@@ -31,8 +45,9 @@ Their website, with data organised by theme, is easier to navigate than the (ove
 
 * * *
 
-[Machine-readable South African COVID-19 data](https://github.com/dsfsi/covid19za), from the [Data Science for Social Impact](https://dsfsi.github.io/) group at the Unversity of Pretoria.
-The [NICD](https://www.nicd.ac.za/) is the definitive source for SA COVID-19 data, but last I checked most of their data were trapped inside PDFs.
+South African COVID-19 data:
+* [Machine-readable South African COVID-19 data](https://github.com/dsfsi/covid19za), from the [Data Science for Social Impact](https://dsfsi.github.io/) group at the Unversity of Pretoria.
+* The [NICD](https://www.nicd.ac.za/) is the definitive source for SA COVID-19 data, but last I checked most of their data were trapped inside PDFs.
 
 * * *
 
@@ -43,10 +58,11 @@ Data on electricity supply/generation and load shedding (rolling blackouts) in S
 
 * * *
 
-If you're working with South African census data, [Adrian Frith](https://adrian.frith.dev/)'s census mapping [website](https://census2011.adrianfrith.com/) is very useful.  
-
-The SALDRU [YouthExplorer](https://www.youthexplorer.org.za/) is also a very useful source for geolocated South African data. Apart from youth-focused socio-economic statistics, it also provides downloadable point data for the coordinates of "service points" such as schools, police stations, post offices, healthcare facilities, SASSA offices, and a variety of other facilities.  
-
-Police station coordinates with their boundaries are available from [SAPS](https://www.saps.gov.za/services/boundary.php).  
+Geospatial data:
+* If you're working with South African census data, [Adrian Frith](https://adrian.frith.dev/)'s census mapping [website](https://census2011.adrianfrith.com/) is very useful.  
+* The SALDRU [YouthExplorer](https://www.youthexplorer.org.za/) is also a very useful source for geolocated South African data. Apart from youth-focused socio-economic statistics, it also provides downloadable point data for the coordinates of "service points" such as schools, police stations, post offices, healthcare facilities, SASSA offices, and a variety of other facilities.  
+* South African police station coordinates with their boundaries are available from [SAPS](https://www.saps.gov.za/services/boundary.php).
+* The [Copernicus Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/home) is a definitive source of weather data.
+* [The Gridded Population of the World (GPW)](https://sedac.ciesin.columbia.edu/data/collection/gpw-v4) data from [SEDAC](https://sedac.ciesin.columbia.edu/) is very useful if you need the spatial distribution of human population across a continuous raster surface, rather than one defined by administrative boundaries.  
 
 * * *
