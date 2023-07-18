@@ -55,3 +55,7 @@ _Global Dialogue_ (magazine of the International Sociological Association), 4 De
 with Ingrid Woolard and Murray Leibbrandt  
 _The Conversation_, 3 September 2015
 
+[UCT’s muddled minimum wage](https://www.groundup.org.za/article/ucts-muddled-minimum-wage_2512/)  
+with Johan Lorenzen  
+_GroundUp_, 8 December 2014
+

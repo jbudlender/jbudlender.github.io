@@ -2,9 +2,13 @@
 layout: page
 permalink: /largedatastata/
 title: Working with "large" data in Stata
-description: A collection of tips, prompted by discussions at the <a href='https://sa-tied.wider.unu.edu/data'>South African National Treasury Secure Data Facility (NT-SDF)</a>.
 nav: false
 ---
+
+The single best resource I've found for working with large data in Stata are [these notes](https://mcaceresb.github.io/stata-bigdata/index.html) from [Mauricio Cáceres Bravo](https://mcaceresb.github.io/), the creator of [Gtools](https://gtools.readthedocs.io/en/latest/). 
+
+Below are some notes from my own experience at the [South African National Treasury Secure Data Facility (NT-SDF)](https://sa-tied.wider.unu.edu/data):
+
 
 * When using a shared resource (e.g. a server):
     - Make sure you `clear` your dataset when your analysis is finished running, if your dataset is large relative to the amount of memory available on the server. Holding large datasets in memory while not actively using them is a sin!
@@ -37,6 +41,4 @@ nav: false
 
 * Loading a large dataset takes time. Frames typically provide a speed improvement over `preserve`/`restore` or using tempfiles.  
 
-* `recode` is slow; a more cumbersone `replace if...` workflow is usually better in terms of computation time. But your programming time also matters!  
- 
-* `use` `varlist` `if` when loading a subset of a dataset can save time compared to loading and then dropping (`help use`).
+* `recode` is slow; a more cumbersone `replace if...` workflow is usually better in terms of computation time. But your programming time also matters!
