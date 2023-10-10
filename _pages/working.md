@@ -10,7 +10,7 @@ nav: false
 <small>(very provisional titles)
 
 * * *
-**Monopsony, wage floors and structural transformation** with Ihsaan Bassier  
+**Rent sharing, wage floors and development** with Ihsaan Bassier  
 <small>*Funded by [UNU-WIDER](https://www.wider.unu.edu/) as part of the [SA-TIED](https://sa-tied.wider.unu.edu/) programme; and by the [Structural Transformation and Economic Growth (STEG)](https://steg.cepr.org/) research initiative of the Foreign, Commonwealth and Development Office (FCDO) of the United Kingdom.*
 
 **Economic and social costs of rolling blackouts in South Africa**  
@@ -29,7 +29,7 @@ nav: false
 
 [**Social Distress and (Some) Relief: Estimating the impact of pandemic job loss on poverty in South Africa**](https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp2022-80-social-distress-relief-impact-pandemic-job-loss-poverty-South-Africa.pdf)
 with Ihsaan Bassier and Maya Goldman  
-_R&R International Journal of Microsimulation_  
+_Accepted, International Journal of Microsimulation_  
 <small>[[July 2022 version](https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp2022-80-social-distress-relief-impact-pandemic-job-loss-poverty-South-Africa.pdf)<!--- | [Code and Datasets](/datasets)-->]
 
 * * *
