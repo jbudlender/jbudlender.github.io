@@ -11,7 +11,25 @@ nav: false
 
 * * *
 **Rent sharing, wage floors and development** with Ihsaan Bassier  
-<small>*Funded by [UNU-WIDER](https://www.wider.unu.edu/) as part of the [SA-TIED](https://sa-tied.wider.unu.edu/) programme; and by the [Structural Transformation and Economic Growth (STEG)](https://steg.cepr.org/) research initiative of the Foreign, Commonwealth and Development Office (FCDO) of the United Kingdom.*
+<small>[[Latest version](/assets/pdf/rentsharing.pdf)]  
+Faced with more favorable demand conditions, many firms raise wages. However,
+we show that firms with labour market power, lower productivity, and binding wage
+floors will absorb these positive revenue-productivity shocks as excess profits instead
+of increasing wages or employment. Our prediction follows from a simple but novel
+theoretical insight under a standard framework of monopsonistic competition, and
+we empirically test this theory in South Africa using firm-level administrative data.
+We first explain how firm wage-setting behavior changes at a productivity threshold
+directly related to the wage floor, and then show how the predicted wage, employment
+and profit patterns are evident in the cross-section of firms covered by collective
+bargaining agreements. We then replicate and extend a leading method of identifying
+rent-sharing elasticities, but estimated separately by firm revenue-productivity
+bins. As predicted by the theory, we find that firms below the threshold increase
+wages and employment less, and profits more, in response to revenue-productivity
+shocks, and that there is a break at the threshold where wage floors bind. The study
+complicates the conclusions emerging from the literature on firm rent-sharing, and
+forms part of an explanation for “stalled” development and “jobless growth”.
+{: style="text-align: justify"}
+
 
 **Economic and social costs of rolling blackouts in South Africa**  
 <small>*Funded by [UNU-WIDER](https://www.wider.unu.edu/) as part of the [SA-TIED](https://sa-tied.wider.unu.edu/) programme.*
