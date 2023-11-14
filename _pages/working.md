@@ -11,7 +11,7 @@ nav: false
 
 * * *
 **Rent sharing, wage floors and development** with Ihsaan Bassier  
-<small>[[Latest version](/assets/pdf/rentsharing.pdf)]  
+<small>[[Latest version](/assets/pdf/rentsharing.pdf) | [WIDER working paper](https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp2023-132-rent-sharing-wage-floors-development.pdf)]  
 Faced with more favorable demand conditions, many firms raise wages. However,
 we show that firms with labour market power, lower productivity, and binding wage
 floors will absorb these positive revenue-productivity shocks as excess profits instead
