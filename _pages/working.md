@@ -30,18 +30,21 @@ complicates the conclusions emerging from the literature on firm rent-sharing, a
 forms part of an explanation for “stalled” development and “jobless growth”.
 {: style="text-align: justify"}
 
+* * *
 
 **Economic and social costs of rolling blackouts in South Africa**  
 <small>*Funded by [UNU-WIDER](https://www.wider.unu.edu/) as part of the [SA-TIED](https://sa-tied.wider.unu.edu/) programme.*
-
-**Stimulus effects of government jobs and grants programmes** with Ihsaan Bassier  
-<small>*Funded by [Agence française de développement](https://www.afd.fr/en) with the support of the European Union; commissioned by the Project Management Office in the South African Presidency.*
 
 * * *
 
 <br/><br/>
 
 #### Working Papers
+
+* * *
+
+[**Stimulus effects of a large public employment programme**](https://www.afd.fr/en/ressources/stimulus-effects-large-public-employment-programme) with Ihsaan Bassier  
+<small>[[January 2024 version](https://www.afd.fr/en/ressources/stimulus-effects-large-public-employment-programme)]
 
 * * *
 
