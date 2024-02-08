@@ -11,7 +11,8 @@ nav: false
 [**Simulation of options to replace the special COVID-19 Social Relief of Distress grant and close the poverty gap at the food poverty line**](https://doi.org/10.35188/UNU-WIDER/2021/105-1)
 with Maya Goldman, Ihsaan Bassier, Lindi Mzankomo and Ingrid Woolard  
 _Commissioned by the National Treasury of South African_, 2021  
-<small>[[Report](https://doi.org/10.35188/UNU-WIDER/2021/105-1)]
+<small>[[Report](https://doi.org/10.35188/UNU-WIDER/2021/105-1) | [Op-Ed](https://www.dailymaverick.co.za/article/2021-11-08-proposed-family-poverty-grant-is-excellent-in-theory-but-there-are-problems-with-its-implementation/)]  
+Media: [Newzroom Afrika](https://youtu.be/k9GiJBZsHI4)
 
 * * *
 

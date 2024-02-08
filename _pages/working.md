@@ -44,7 +44,8 @@ forms part of an explanation for “stalled” development and “jobless growth
 * * *
 
 [**Stimulus effects of a large public employment programme**](https://www.afd.fr/en/ressources/stimulus-effects-large-public-employment-programme) with Ihsaan Bassier  
-<small>[[January 2024 version](https://www.afd.fr/en/ressources/stimulus-effects-large-public-employment-programme)]
+<small>[[January 2024 version](https://www.afd.fr/en/ressources/stimulus-effects-large-public-employment-programme)]  
+Media: [CNBC Africa](https://storage.googleapis.com/bcclips/20240206/7404414-0_134D8B3.mp4), [Newzroom Afrika](https://www.youtube.com/watch?v=oaPT5ch5VGo)
 
 * * *
 

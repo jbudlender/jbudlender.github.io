@@ -14,12 +14,13 @@ _South African Journal of Economics_, 2023 (Early View)
 [[Wave 1 working paper](https://www.opensaldru.uct.ac.za/handle/11090/980) | [Code](https://cramsurvey.org/wp-content/uploads/2020/07/5.-Jain_Do-Files.zip) | [Op-Ed](https://www.businesslive.co.za/fm/features/2020-07-15-distress-grant-misses-the-mark/)]  
 [[Wave 2 working paper](https://www.opensaldru.uct.ac.za/handle/11090/995) | [Code](https://cramsurvey.org/wp-content/uploads/2020/09/8.-Jain.zip) | [Op-Ed](https://www.dailymaverick.co.za/article/2020-09-30-covid-19-job-losses-persist-but-grants-cushion-the-blow/)]  
 [[Wave 3 working paper](https://cramsurvey.org/wp-content/uploads/2021/02/2.-Bassier-I.-Budlender-J.-Zizzamia-R.-2021-The-labour-market-impact-of-COVID-19-.pdf) | [Code](https://cramsurvey.org/wp-content/uploads/2021/02/2.-Bassier_Do-files.zip) | [Op-Ed](https://www.dailymaverick.co.za/article/2021-02-25-why-the-employment-numbers-differ-so-vastly-in-the-quarterly-labour-force-survey-and-nids-cram/)]  
+Media: [The Economist](https://www.economist.com/middle-east-and-africa/2020/07/18/covid-19-has-throttled-south-africas-economy), [Mail & Guardian](https://mg.co.za/news/2020-07-15-three-million-jobs-lost-and-hunger-surging-amid-covid-19-crisis-survey/)
 
 * * *
 
 [**Locked down and locked out: Repurposing social assistance as emergency relief to informal workers**](https://doi.org/10.1016/j.worlddev.2020.105271) with Ihsaan Bassier, Rocco Zizzamia, Murray Leibbrandt and Vimal Ranchhod  
 _World Development_, 2021 (Vol. 139)  
-<small>[[Published](https://doi.org/10.1016/j.worlddev.2020.105271) | [Paper](/assets/pdf/j.worlddev.2020.105271.pdf) | [Replication package](/assets/code/ReplicationPackage.zip)]
+<small>[[Published](https://doi.org/10.1016/j.worlddev.2020.105271) | [Paper](/assets/pdf/j.worlddev.2020.105271.pdf) | [Replication package](/assets/code/ReplicationPackage.zip) | [Op-Ed](https://theconversation.com/south-africa-can-and-should-top-up-child-support-grants-to-avoid-a-humanitarian-crisis-135222)]
 
 * * *
 
