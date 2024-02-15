@@ -37,6 +37,7 @@ Unfortunately their website can be difficult to navigate. A few particularly use
   [Food and beverages](https://www.statssa.gov.za/?page_id=1866&PPN=P6420&SCH=73109), [Motor trade](https://www.statssa.gov.za/?page_id=1866&PPN=P6343.2&SCH=73105), 
   [Tourist accomodation](https://www.statssa.gov.za/?page_id=1866&PPN=P6410&SCH=72889), [Tourism and Migration](https://www.statssa.gov.za/?page_id=1866&PPN=P0351&SCH=73296), [Import/Export Unit Value Indices](https://www.statssa.gov.za/?page_id=1866&PPN=P0142.7&SCH=73049)
 * [Input-output](https://www.statssa.gov.za/?page_id=1866&PPN=Report-04-04-02&SCH=7002) (see also [here](https://www.statssa.gov.za/?page_id=1854&PPN=D0404.1) and [here](https://www.statssa.gov.za/?page_id=1854&PPN=D0404)) and [Supply and use](https://www.statssa.gov.za/?page_id=1866&PPN=Report-04-04-03&SCH=73278) (see [here](https://www.statssa.gov.za/?page_id=1866&PPN=Report-04-04-01&SCH=4764) for 1998-2005) tables
+* [Mid-year population estimates](https://www.statssa.gov.za/?page_id=1866&PPN=P0302&SCH=73305)
 
 * * *
 

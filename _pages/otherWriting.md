@@ -7,6 +7,11 @@ nav: false
 nav_order: 2
 ---
 
+[South Africa has spent billions in 4 years to create jobs for young people: how their wages affect the broader economy](https://theconversation.com/south-africa-has-spent-billions-in-4-years-to-create-jobs-for-young-people-how-their-wages-affect-the-broader-economy-222825)  
+with Ihsaan Bassier  
+_The Conversation_, 15 February 2024  
+<small>Media: [CNBC Africa](https://storage.googleapis.com/bcclips/20240206/7404414-0_134D8B3.mp4), [Newzroom Afrika](https://www.youtube.com/watch?v=oaPT5ch5VGo)
+
 [Has the Employment Tax Incentive created jobs?](http://www.econ3x3.org/article/has-employment-tax-incentive-created-jobs)   
 with Amina Ebrahim  
 _Econ3x3_, 3 November 2022
