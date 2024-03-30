@@ -32,7 +32,7 @@ forms part of an explanation for “stalled” development and “jobless growth
 
 * * *
 
-**Surviving in the dark:~the mortality effects of reducing rolling blackouts in Cape Town, South Africa**  
+**Surviving in the dark: the mortality effects of reducing rolling blackouts in Cape Town, South Africa**  
 <small>*Funded by [UNU-WIDER](https://www.wider.unu.edu/) as part of the [SA-TIED](https://sa-tied.wider.unu.edu/) programme.*
 
 * * *
