@@ -36,4 +36,4 @@ Unit ([SALDRU](https://www.saldru.uct.ac.za/)) at the University of Cape Town.
 My work is in Labour and Development Economics, using Applied Microeconometrics methods. I have a particular interest in exploring the role of firms in the development process and in determining wages and employment.  
 
 I have also done economic advisory work on social grant policy for the South African Presidency and National Treasury. 
-Other interests include the economic history and long-run effects of racial discrimination in South Africa, and the developmental impacts of policy successes and failures in South Africa today. 
+Other interests include the economic history and long-run effects of racial discrimination in South Africa, and evaluating the developmental impacts of policy successes and failures in South Africa today. 
