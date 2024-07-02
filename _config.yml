@@ -6,13 +6,13 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Joshua
 middle_name: 
 last_name: Budlender
-email: jbudlender@umass.edu
+email: joshua.budlender@uct.ac.za
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Academic website of Joshua Budlender. Labour Economics, Development Economics, Applied Microeconometrics.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: joshua-budlender, josh-budlender, economics, south-africa  # add your own keywords or leave empty
+keywords: joshua-budlender, josh-budlender, economics, south-africa, saldru, uct  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: jb_favicon.ico  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
