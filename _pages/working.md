@@ -33,7 +33,18 @@ forms part of an explanation for “stalled” development and “jobless growth
 * * *
 
 **Surviving in the dark: the mortality effects of reducing rolling blackouts**  
-<small>*Funded by [UNU-WIDER](https://www.wider.unu.edu/) as part of the [SA-TIED](https://sa-tied.wider.unu.edu/) programme.*
+<small>[[WIDER/SA-TIED Working Paper](https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp2024-44-surviving-in-the-dark-mortality-effects-reducing-rolling-blackouts.pdf)]  
+South Africa frequently experiences rolling blackouts ("load shedding") due to shortfalls
+in electricity generation. This is a common problem across the developing world, and yet the
+developmental impacts of insufficient and unstable electricity supply, and the benefits of mitigating
+this, are poorly understood. I use the introduction of a unique load shedding reduction policy in
+parts of South Africa’s second-largest city, Cape Town, to investigate the mortality effects of load
+shedding and its mitigation. To identify these effects, I use a stacked synthetic control design that
+leverages the episodic nature of load shedding between 2014 and 2019. While the estimates are
+imprecise, I find robust evidence that the mitigation policy statistically significantly reduces
+mortality in Cape Town relative to other parts of South Africa experiencing unmitigated load
+shedding. The incomplete geographic coverage of the mitigation policy entrenches existing
+inequalities in the city.
 
 * * *
 

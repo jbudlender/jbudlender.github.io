@@ -33,4 +33,4 @@ My work is in Labour and Development Economics, using Applied Microeconometrics 
 I have also done economic advisory work on social grant policy for the South African Presidency and National Treasury. 
 Other interests include the economic history and long-run effects of racial discrimination in South Africa, and evaluating the developmental impacts of policy successes and failures in South Africa today. 
 
-I completed by PhD in Economics at the University of Massachusetts, Amherst in June 2024, under the primary supervision of Arindrajit Dube.  
+I completed my PhD in Economics at the University of Massachusetts, Amherst in June 2024, under the primary supervision of Arindrajit Dube.  
