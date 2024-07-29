@@ -7,6 +7,9 @@ nav: false
 nav_order: 2
 ---
 
+[Less load shedding? Fewer deaths](https://www.saldru.uct.ac.za/2024/07/25/less-load-shedding-fewer-deaths/)  
+_SALDRU Newsletter_, 25 July 2024
+
 [South Africa has spent billions in 4 years to create jobs for young people: how their wages affect the broader economy](https://theconversation.com/south-africa-has-spent-billions-in-4-years-to-create-jobs-for-young-people-how-their-wages-affect-the-broader-economy-222825)  
 with Ihsaan Bassier  
 _The Conversation_, 15 February 2024  
