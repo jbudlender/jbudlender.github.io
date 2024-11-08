@@ -33,7 +33,7 @@ forms part of an explanation for “stalled” development and “jobless growth
 * * *
 
 **Surviving in the dark: the mortality effects of reducing rolling blackouts**  
-<small>[[WIDER/SA-TIED Working Paper](https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp2024-44-surviving-in-the-dark-mortality-effects-reducing-rolling-blackouts.pdf)]  
+<small>[[WIDER/SA-TIED Working Paper](https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp2024-44-surviving-in-the-dark-mortality-effects-reducing-rolling-blackouts.pdf) | [SALDRU Newsletter article](https://www.saldru.uct.ac.za/2024/07/25/less-load-shedding-fewer-deaths/) | [WIDERAngle Blogpost](https://www.wider.unu.edu/publication/tale-two-cities-can-electricity-supply-save-lives-without-deepening-divides/)]  
 South Africa frequently experiences rolling blackouts ("load shedding") due to shortfalls
 in electricity generation. This is a common problem across the developing world, and yet the
 developmental impacts of insufficient and unstable electricity supply, and the benefits of mitigating
@@ -45,6 +45,15 @@ imprecise, I find robust evidence that the mitigation policy statistically signi
 mortality in Cape Town relative to other parts of South Africa experiencing unmitigated load
 shedding. The incomplete geographic coverage of the mitigation policy entrenches existing
 inequalities in the city.
+
+* * *
+
+**Monopsony with labour surplus** with Ihsaan Bassier  
+
+* * *
+
+**Informality, land and unemployment** with Ihsaan Bassier and Surbhi Kesar  
+
 
 * * *
 

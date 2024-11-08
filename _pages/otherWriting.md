@@ -7,6 +7,9 @@ nav: false
 nav_order: 2
 ---
 
+[A tale of two cities: Can electricity supply save lives without deepening divides?](https://www.wider.unu.edu/publication/tale-two-cities-can-electricity-supply-save-lives-without-deepening-divides/)  
+_WIDERAngle Blog_, September 2024
+
 [Less load shedding? Fewer deaths](https://www.saldru.uct.ac.za/2024/07/25/less-load-shedding-fewer-deaths/)  
 _SALDRU Newsletter_, 25 July 2024
 
