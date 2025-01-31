@@ -8,8 +8,14 @@ nav: false
 
 * * *
 
+[**Social Distress and (Some) Relief: Estimating the impact of pandemic job loss on poverty in South Africa**](https://www.microsimulation.pub/articles/00312)
+with Ihsaan Bassier and Maya Goldman  
+_International Journal of Microsimulation_, 2025 (Vol. 18, Issue 1)  
+<small>[[Published, Open Access](https://www.microsimulation.pub/articles/00312) | Code and datasets coming soon]
+* * *
+
 [**The labour market and poverty impacts of covid-19 in South Africa**](https://onlinelibrary.wiley.com/doi/full/10.1111/saje.12356) with Ihsaan Bassier, Rocco Zizzamia, and Ronak Jain  
-_South African Journal of Economics_, 2023 (Early View)  
+_South African Journal of Economics_, 2023 (Vol. 91, Issue 4)  
 <small>[[Published, Open Access](https://onlinelibrary.wiley.com/doi/full/10.1111/saje.12356)]  
 [[Wave 1 working paper](https://www.opensaldru.uct.ac.za/handle/11090/980) | [Code](https://cramsurvey.org/wp-content/uploads/2020/07/5.-Jain_Do-Files.zip) | [Op-Ed](https://www.businesslive.co.za/fm/features/2020-07-15-distress-grant-misses-the-mark/)]  
 [[Wave 2 working paper](https://www.opensaldru.uct.ac.za/handle/11090/995) | [Code](https://cramsurvey.org/wp-content/uploads/2020/09/8.-Jain.zip) | [Op-Ed](https://www.dailymaverick.co.za/article/2020-09-30-covid-19-job-losses-persist-but-grants-cushion-the-blow/)]  

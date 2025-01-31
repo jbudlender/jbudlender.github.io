@@ -54,8 +54,16 @@ inequalities in the city.
 
 **Informality, land and unemployment** with Ihsaan Bassier and Surbhi Kesar  
 
+* * *
+
+**Household and individual data in the 2022 South African census** with Amy Thornton
 
 * * *
+
+**Firms and racial segregation in the South African formal sector labour market** with Ihsaan Bassier
+<small>[This work receives funding from the [SA-TIED](https://sa-tied.wider.unu.edu/) programme]
+
+* * * 
 
 <br/><br/>
 
@@ -66,13 +74,6 @@ inequalities in the city.
 [**Stimulus effects of a large public employment programme**](https://www.afd.fr/en/ressources/stimulus-effects-large-public-employment-programme) with Ihsaan Bassier  
 <small>[[January 2024 version](https://www.afd.fr/en/ressources/stimulus-effects-large-public-employment-programme) | [Op-Ed](https://theconversation.com/south-africa-has-spent-billions-in-4-years-to-create-jobs-for-young-people-how-their-wages-affect-the-broader-economy-222825)]  
 Media: [CNBC Africa](https://storage.googleapis.com/bcclips/20240206/7404414-0_134D8B3.mp4), [Newzroom Afrika](https://www.youtube.com/watch?v=oaPT5ch5VGo)
-
-* * *
-
-[**Social Distress and (Some) Relief: Estimating the impact of pandemic job loss on poverty in South Africa**](https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp2022-80-social-distress-relief-impact-pandemic-job-loss-poverty-South-Africa.pdf)
-with Ihsaan Bassier and Maya Goldman  
-_Accepted, International Journal of Microsimulation_  
-<small>[[July 2022 version](https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp2022-80-social-distress-relief-impact-pandemic-job-loss-poverty-South-Africa.pdf)<!--- | [Code and Datasets](/datasets)-->]
 
 * * *
 

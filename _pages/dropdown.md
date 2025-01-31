@@ -14,8 +14,8 @@ children:
     - title: Other writing
       permalink: /otherWriting/
     - title: divider
-    - title: SALDRU December Workshop
-      permalink: /decemberWorkshop/
+    - title: Visit SALDRU
+      permalink: /visitSALDRU/
     - title: divider
     - title: About this website
       permalink: /aboutwebsite/
