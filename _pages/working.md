@@ -10,24 +10,9 @@ nav: false
 <small>(very provisional titles)
 
 * * *
-**Rent sharing, wage floors and development** with Ihsaan Bassier  
-<small>[[Latest version](/assets/pdf/rentsharing.pdf)]  
-Faced with more favorable demand conditions, many firms raise wages. However,
-we show that firms with labour market power, lower productivity, and binding wage
-floors will absorb these positive revenue-productivity shocks as excess profits instead
-of increasing wages or employment. Our prediction follows from a simple but novel
-theoretical insight under a standard framework of monopsonistic competition, and
-we empirically test this theory in South Africa using firm-level administrative data.
-We first explain how firm wage-setting behavior changes at a productivity threshold
-directly related to the wage floor, and then show how the predicted wage, employment
-and profit patterns are evident in the cross-section of firms covered by collective
-bargaining agreements. We then replicate and extend a leading method of identifying
-rent-sharing elasticities, but estimated separately by firm revenue-productivity
-bins. As predicted by the theory, we find that firms below the threshold increase
-wages and employment less, and profits more, in response to revenue-productivity
-shocks, and that there is a break at the threshold where wage floors bind. The study
-complicates the conclusions emerging from the literature on firm rent-sharing, and
-forms part of an explanation for “stalled” development and “jobless growth”.
+**When do employers share? Rent sharing, monopsony and minimum wages** with Ihsaan Bassier  
+<small>[[Latest public version](/assets/pdf/rentsharing.pdf)]  
+How do firms bound by minimum wages respond to productivity increases or more favorable demand conditions? While the literature shows that firms generally share revenue-productivity increases with workers in the form of higher wages or employment, we find that this dynamic weakens substantially for lower-productivity firms which are just-constrained by minimum wages. Using a monopsony framework, we predict a "kink" in the wage-productivity curve: firms just below this productivity threshold pay the minimum wage and absorb revenue-productivity gains as profits, without wage or employment increases, while firms above the threshold exhibit normal rent-sharing behavior. We test for and find strong evidence of this mechanism using South African tax data, based on a cross-sectional kink design as well as within-firm responses to internal and shift-share trade shocks on either side of the productivity threshold. Our paper highlights how rent-sharing and inclusive growth more generally are contingent on how firms respond to constraints which reduce their monopsony rents.
 {: style="text-align: justify"}
 
 * * *
@@ -48,11 +33,11 @@ inequalities in the city.
 
 * * *
 
-**Monopsony with labour surplus** with Ihsaan Bassier  
+**Monopsony in queues: How relevant is monopsony in labour surplus economies?** with Ihsaan Bassier  
 
 * * *
 
-**Informality, land and unemployment** with Ihsaan Bassier and Surbhi Kesar  
+**Informality and unemployment after land dispossession** with Ihsaan Bassier and Surbhi Kesar  
 
 * * *
 
