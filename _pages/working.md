@@ -12,7 +12,7 @@ nav: false
 * * *
 **When do employers share? Rent sharing, monopsony and minimum wages** with Ihsaan Bassier  
 <small>[[Latest public version](/assets/pdf/rentsharing.pdf)]  
-How do firms bound by minimum wages respond to productivity increases or more favorable demand conditions? While the literature shows that firms generally share revenue-productivity increases with workers in the form of higher wages or employment, we find that this dynamic weakens substantially for lower-productivity firms which are just-constrained by minimum wages. Using a monopsony framework, we predict a "kink" in the wage-productivity curve: firms just below this productivity threshold pay the minimum wage and absorb revenue-productivity gains as profits, without wage or employment increases, while firms above the threshold exhibit normal rent-sharing behavior. We test for and find strong evidence of this mechanism using South African tax data, based on a cross-sectional kink design as well as within-firm responses to internal and shift-share trade shocks on either side of the productivity threshold. Our paper highlights how rent-sharing and inclusive growth more generally are contingent on how firms respond to constraints which reduce their monopsony rents.
+How do firms bound by minimum wages respond to productivity increases or more favorable demand conditions? While the literature shows that firms generally share revenue-productivity increases with workers in the form of higher wages or employment, we find that this dynamic weakens substantially for lower-productivity firms which are just-constrained by minimum wages. Using a monopsony framework, we predict a "kink" in the wage-productivity curve: firms just below this productivity threshold pay the minimum wage and absorb revenue-productivity gains as profits, without wage or employment increases, while firms above the threshold exhibit normal rent-sharing behavior. We test for and find strong evidence of this mechanism using South African tax data, based on a cross-sectional kink design as well as within-firm responses to internal and shift-share trade shocks on either side of the productivity threshold. Our paper highlights how rent-sharing and inclusive growth more generally are contingent on how firms respond to constraints which affect their monopsony rents.
 {: style="text-align: justify"}
 
 * * *
@@ -30,6 +30,7 @@ imprecise, I find robust evidence that the mitigation policy statistically signi
 mortality in Cape Town relative to other parts of South Africa experiencing unmitigated load
 shedding. The incomplete geographic coverage of the mitigation policy entrenches existing
 inequalities in the city.
+{: style="text-align: justify"}
 
 * * *
 
@@ -45,7 +46,7 @@ inequalities in the city.
 
 * * *
 
-**Firms and racial segregation in the South African formal sector labour market** with Ihsaan Bassier
+**Racial segregation in South African formal sector firms** with Ihsaan Bassier  
 <small>[This work receives funding from the [SA-TIED](https://sa-tied.wider.unu.edu/) programme]
 
 * * * 
