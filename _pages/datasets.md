@@ -22,11 +22,10 @@ The single best source for South African microdata for academic use, particularl
 
 * * *
 ##### Statistics South Africa
-The national statistical office, [Statistics South Africa](https://www.statssa.gov.za/), collects and produces an invaluable array of South African data, but their website is difficult to navigate. A few particularly useful pages:
+The national statistical office, [Statistics South Africa](https://www.statssa.gov.za/), collects and produces an invaluable array of South African data. The first port of call for data from Stats SA is their new [ISIbalo Data Portal](https://isibaloweb.statssa.gov.za/idatweb.php), which is a substantial improvement over the prior system.  In addition to ISIbalo, a few particularly useful pages:
 * [Historic CPI series](http://www.statssa.gov.za/publications/P0141/CPIHistory.pdf?), [CPI archive](https://www.statssa.gov.za/?page_id=1866&PPN=P0141&SCH=73033), [PPI archive](https://www.statssa.gov.za/?page_id=1866&PPN=P0142.1&SCH=73035)  
   * The historic headline CPI data is trapped inside a PDF: I wrote a small script to extract and reshape the data into long `.csv` and `.dta` files, available at my [Github repo](https://github.com/jbudlender/HistoricSA_CPI).  
   * [Aidan Horn](https://www.aidanhorn.co.za/home) scrapes and [publishes](https://www.aidanhorn.co.za/inflation/app) this and more disaggregated non-historic data.
-* ['Interactive data' webpage](https://www.statssa.gov.za/?page_id=1417), which links to the Nesstar interface for downloading microdata, and to economic time series in machine-readable formats.
 * [QLFS](https://www.statssa.gov.za/?page_id=1866&PPN=P0211&SCH=73289), [QES](https://www.statssa.gov.za/?page_id=1854&PPN=P0277&SCH=72995) and [GDP](https://www.statssa.gov.za/?page_id=1866&PPN=P0441&SCH=72934) archives
 * Archives of various monthly series, mainly production and sales data: 
   [Mining](https://www.statssa.gov.za/?page_id=1866&PPN=P2041&SCH=73088), [Manufacturing](https://www.statssa.gov.za/?page_id=1866&PPN=P3041.2&SCH=73089), [Electricity](https://www.statssa.gov.za/?page_id=1866&PPN=P4141&SCH=73090), 
