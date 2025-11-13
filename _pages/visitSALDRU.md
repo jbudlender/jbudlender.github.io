@@ -12,7 +12,7 @@ description: The SALDRU weekly seminar series and annual SALDRU December worksho
 SALDRU hosts a [weekly in-person seminar series](https://www.saldru.uct.ac.za/events/category/seminars/
 ) at the School of Economics at UCT, where local and visiting scholars present research broadly in the fields of Labour and Development Economics. Seminars are generally open to the public; sign up [here](https://www.saldru.uct.ac.za/seminar-mailing-list/) if you would like to be added to the external mailing list.  
 
-I am convening the 2025 seminar series. If you would like to present your own research, please [email me](mailto:joshua.budlender@uct.ac.za). While SALDRU does not generally provide funding to present at the weekly seminar series, if your research fits into our thematic areas we can provide an invitation letter with which you can apply for travel or conference funding from your own institution.
+I currently convene the 2025 seminar series. If you would like to present your own research, please [email me](mailto:joshua.budlender@uct.ac.za). While SALDRU does not generally provide funding to present at the weekly seminar series, if your research fits into our thematic areas we can provide an invitation letter with which you can apply for travel or conference funding from your own institution.
 
 ## SALDRU December Workshop
 
