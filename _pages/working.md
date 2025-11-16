@@ -11,9 +11,10 @@ nav: false
 
 * * *
 **When do employers share? Rent sharing, monopsony and minimum wages** with Ihsaan Bassier  
-<small>[[Latest public version](/assets/pdf/rentsharing.pdf)]  
-When firms experience productivity increases or better demand conditions, they tend to share the benefits with their workers. An increasingly favoured explanation for such rent sharing is labour market monopsony. But what happens when firms also face binding minimum wages, as is empirically common? In our theoretical model, when a monopsonistic firm's preferred wage lies just below the mandated minimum, it will neither raise wages (share rents) nor expand employment following a local revenue-productivity increase. Instead, the firm maintains the minimum wage and absorbs the additional revenue into a higher markdown. We find compelling evidence for these predictions using South African administrative data, based on a cross-sectional kink design as well as within-firm responses to internal and shift-share trade shocks. Our results demonstrate a novel monopsonistic mechanism in the labour market, and also highlight a potential disconnect between the level of rent sharing and the pass-through.  
+<small>[[Latest public version](/assets/pdf/rentsharing.pdf) | [2025 CEP Discussion Paper](https://cep.lse.ac.uk/pubs/download/dp2134.pdf)]  
+When firm productivity or product demand rises, workers typically share in the gains through higher wages or expanded employment. We show that for firms under monopsony with a binding minimum wage, this link from firm gains to worker outcomes breaks sharply. Revenue-productivity improvements raise revenues but not wages or employment: firms simply maintain the minimum wage and absorb the gains into higher wage markdowns. We find compelling evidence for these predictions using South African administrative data, based on a cross-sectional kink design as well as within-firm responses to internal and shift-share trade shocks.  These results reveal a previously overlooked monopsonistic margin---productivity-induced markdown adjustment---and we show using a structural model that this substantially diminishes the intended returns of policies such as employment subsidies.  
 {: style="text-align: justify"}
+<small>[*Previously posted in 2023 as [Rent sharing, wage floors and development](https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp2023-132-rent-sharing-wage-floors-development.pdf)*]
 
 * * *
 
@@ -34,15 +35,12 @@ inequalities in the city.
 
 * * *
 
-**Monopsony in queues: How relevant is monopsony in labour surplus economies?** with Ihsaan Bassier  
+**Surplus labour and structural transformation after land dispossession** with Ihsaan Bassier and Surbhi Kesar  
 
 * * *
 
-**Informality and unemployment after land dispossession** with Ihsaan Bassier and Surbhi Kesar  
 
-* * *
-
-**Household and individual data in the 2022 South African census** with Amy Thornton
+**Irregular imputation and implausible households in the 2022 South African Census** with Amy Thornton
 
 * * *
 
@@ -50,6 +48,10 @@ inequalities in the city.
 <small>[This work receives funding from the [SA-TIED](https://sa-tied.wider.unu.edu/) programme]
 
 * * * 
+
+**Monopsony in queues: How relevant is monopsony in labour surplus economies?** with Ihsaan Bassier  
+
+* * *
 
 <br/><br/>
 

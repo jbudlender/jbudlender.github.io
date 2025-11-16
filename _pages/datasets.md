@@ -37,7 +37,7 @@ The national statistical office, [Statistics South Africa](https://www.statssa.g
 
 * * *
 ##### Matched employer-employee tax administrative data
-Can be accessed in-person at the [National Treasury Secure Data Facility (NT-SDF)](https://sa-tied.wider.unu.edu/data) in Pretoria. Access to the data and output retrieval is strictly controlled to ensure anonymity is preserved and to comply with relevant legislation: see the [SA-TIED](https://sa-tied.wider.unu.edu/) website for details.
+Can be accessed in-person at the [National Treasury Secure Data Facility (NT-SDF)](https://sa-tied.wider.unu.edu/data) in Centurion. Access to the data and output retrieval is strictly controlled to ensure anonymity is preserved and to comply with relevant legislation: see the [SA-TIED](https://sa-tied.wider.unu.edu/) website for details.
 * The datasets are very large, the underlying tax data is not collected with researchers in mind, and the data documentation is incomplete. This data is incredibly rich, but is not easy to work with. You must be very comfortable with Stata, R or Python to conduct productive research with this data; the NT-SDF is not a place to learn these languages as you go.
 * I have provided some [tips on working with large data in Stata](/largedatastata), based on my experiences at the NT-SDF.
 * The NT-SDF administrators may be able to direct you to research assistants based in Pretoria who can run analysis for you, but keep in mind that the data is complex to work with and it is probably a good idea to retain fairly close oversight and run many checks on the data as you go.
