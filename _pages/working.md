@@ -14,7 +14,6 @@ nav: false
 <small>[[Latest public version](/assets/pdf/rentsharing.pdf) | [2025 CEP Discussion Paper](https://cep.lse.ac.uk/pubs/download/dp2134.pdf)]  
 When firm productivity or product demand rises, workers typically share in the gains through higher wages or expanded employment. We show that for firms under monopsony with a binding minimum wage, this link from firm gains to worker outcomes breaks sharply. Revenue-productivity improvements raise revenues but not wages or employment: firms simply maintain the minimum wage and absorb the gains into higher wage markdowns. We find compelling evidence for these predictions using South African administrative data, based on a cross-sectional kink design as well as within-firm responses to internal and shift-share trade shocks.  These results reveal a previously overlooked monopsonistic margin---productivity-induced markdown adjustment---and we show using a structural model that this substantially diminishes the intended returns of policies such as employment subsidies.  
 {: style="text-align: justify"}
-<small>[*Previously posted in 2023 as [Rent sharing, wage floors and development](https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp2023-132-rent-sharing-wage-floors-development.pdf)*]
 
 * * *
 
