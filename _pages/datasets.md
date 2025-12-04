@@ -68,8 +68,10 @@ Tables from my report with Amina Ebrahim, [Industry classification in the South 
 
 * * *
 ##### Geospatial data
+* The 2022 South African Census district-layer shapefiles are available from Stats SA [here](https://www.statssa.gov.za/?p=18624). The underlying data aggregated at the various district levels is currently available via Stats SA's clunky [SuperWeb Data Portal](https://superweb.statssa.gov.za/webapi/jsf/login.xhtml). 
+  * In my view it is highly inadvisable to use the Census 2022 data for substantive research or policy purposes. Data quality in Census 2022 is the subject of my ongoing research.
 * The 2011 South African Census data and shapefiles are available from [DataFirst](https://doi.org/10.25828/6n0m-7m52). 
-   * The lowest Small Area Layer (SAL) shapefiles do not include polygons for areas where a Small Area (SA) contains 10 or fewer individuals. Helene Verhoef kindly provided me with [additional Stats SA shapefiles](https://www.dropbox.com/s/urp5t8onym43k1s/SA_nogaps_2013.zip?dl=0) which include these (empty) polygons. Please acknowledge Stats SA if you use them.  
+  * The lowest Small Area Layer (SAL) shapefiles do not include polygons for areas where a Small Area (SA) contains 10 or fewer individuals. Helene Verhoef kindly provided me with [additional Stats SA shapefiles](https://www.dropbox.com/s/urp5t8onym43k1s/SA_nogaps_2013.zip?dl=0) which include these (empty) polygons. Please acknowledge Stats SA if you use them.  
   * [Adrian Frith's](https://adrian.frith.dev/) census mapping [website](https://census2011.adrianfrith.com/) is very useful if working with this data.  
   * Adrian Frith also provided a [small dataset](https://pastebin.com/E1P618CG) linking 2001 to 2011 municipality geographies, which one can use to construct a cross-walk ([context](https://twitter.com/adrianfrith/status/1725255307189006600)).
 * The [Spatial Tax Data](https://spatialtaxdata.org.za/) produced and distributed by [SEAD-SA](https://spatialtaxdata.org.za/about-the-project) is a unique resource built from the administrative tax data mentioned above, providing geolocated data on formal employment and establishments. The producers note some caveats which must be kept in mind when using this data; it is essential to read their documentation.  
