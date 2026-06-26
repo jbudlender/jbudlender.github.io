@@ -26,11 +26,12 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
  -->
 
-I am a Postdoctoral Research Fellow at the Southern Africa Labour and Development Research Unit ([SALDRU](https://www.saldru.uct.ac.za/)) at the University of Cape Town.  
+I am a Postdoctoral Research Fellow at the Southern Africa Labour and Development Research Unit ([SALDRU](https://www.saldru.uct.ac.za/)) at the University of Cape Town. From July 2026 I will be appointed as a Senior Research Officer at SALDRU. 
 
-My work is in Labour and Development Economics, using Applied Microeconometrics methods. I have a particular interest in exploring the role of firms in the development process and in determining wages and employment.  
+My work is in labour and development economics, using applied microeconometric methods. I have a particular interest in exploring the role of firms in the development process and in determining wages and employment, as well as in understanding the drivers of South Africa's persistently high unemployment.  
 
-I have also done economic advisory work on social grant policy for the South African Presidency and National Treasury. 
-Other interests include the economic history and long-run effects of racial discrimination in South Africa, and evaluating the developmental impacts of policy successes and failures in South Africa today. 
+Other (often-related) interests include the economic history and long-run effects of racial discrimination in South Africa, and evaluating the developmental impacts of policy successes and failures in the country today. I have done economic advisory work on social grant policy for the South African Presidency and National Treasury, and currently am involved in evaluating a large public employment programme with the Presidency. 
+
+Causal inference methods are an important part of my research toolkit, as is working with large administrative datasets, and collecting and using household survey data.
 
 I received my PhD in Economics from the University of Massachusetts, Amherst in September 2024, under the primary supervision of Arindrajit Dube.  

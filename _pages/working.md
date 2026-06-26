@@ -6,8 +6,8 @@ description:
 nav: false
 ---
 
-#### Selected works in progress
-<small>(very provisional titles)
+#### Selected work in progress
+<small>(provisional titles)
 
 * * *
 **When do employers share? Rent sharing, monopsony and minimum wages** with Ihsaan Bassier  
@@ -17,27 +17,14 @@ When firm productivity or product demand rises, workers typically share in the g
 
 * * *
 
-**Surviving in the dark: the mortality effects of reducing rolling blackouts**  
-<small>[[WIDER/SA-TIED Working Paper](https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp2024-44-surviving-in-the-dark-mortality-effects-reducing-rolling-blackouts.pdf) | [SALDRU Newsletter article](https://www.saldru.uct.ac.za/2024/07/25/less-load-shedding-fewer-deaths/) | [WIDERAngle Blogpost](https://www.wider.unu.edu/publication/tale-two-cities-can-electricity-supply-save-lives-without-deepening-divides/)]  
-South Africa frequently experiences rolling blackouts ("load shedding") due to shortfalls
-in electricity generation. This is a common problem across the developing world, and yet the
-developmental impacts of insufficient and unstable electricity supply, and the benefits of mitigating
-this, are poorly understood. I use the introduction of a unique load shedding reduction policy in
-parts of South Africa’s second-largest city, Cape Town, to investigate the mortality effects of load
-shedding and its mitigation. To identify these effects, I use a stacked synthetic control design that
-leverages the episodic nature of load shedding between 2014 and 2019. While the estimates are
-imprecise, I find robust evidence that the mitigation policy statistically significantly reduces
-mortality in Cape Town relative to other parts of South Africa experiencing unmitigated load
-shedding. The incomplete geographic coverage of the mitigation policy entrenches existing
-inequalities in the city.
-{: style="text-align: justify"}
-
-* * *
-
 **Surplus labour and structural transformation after land dispossession** with Ihsaan Bassier and Surbhi Kesar  
 
-* * *
+* * * 
 
+**When the lights stay on: Electricity reliability and house prices** with Allan Davids  
+<small>[This work receives funding from the [IGC](https://www.theigc.org)]
+
+* * *
 
 **Irregular imputation and implausible households in the 2022 South African Census** with Amy Thornton
 
@@ -46,15 +33,16 @@ inequalities in the city.
 **Racial segregation in South African formal sector firms** with Ihsaan Bassier  
 <small>[This work receives funding from the [SA-TIED](https://sa-tied.wider.unu.edu/) programme]
 
-* * * 
-
-**Monopsony in queues: How relevant is monopsony in labour surplus economies?** with Ihsaan Bassier  
-
 * * *
 
 <br/><br/>
 
 #### Working Papers
+
+* * *
+
+**Surviving in the dark: the mortality effects of reducing rolling blackouts**  
+<small>[[July 2024 version](https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp2024-44-surviving-in-the-dark-mortality-effects-reducing-rolling-blackouts.pdf) | [SALDRU Newsletter article](https://www.saldru.uct.ac.za/2024/07/25/less-load-shedding-fewer-deaths/) | [WIDERAngle Blogpost](https://www.wider.unu.edu/publication/tale-two-cities-can-electricity-supply-save-lives-without-deepening-divides/)]  
 
 * * *
 
