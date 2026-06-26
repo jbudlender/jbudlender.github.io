@@ -30,7 +30,7 @@ I am a Postdoctoral Research Fellow at the Southern Africa Labour and Developmen
 
 My work is in labour and development economics, using applied microeconometric methods. I have a particular interest in exploring the role of firms in the development process and in determining wages and employment, as well as in understanding the drivers of South Africa's persistently high unemployment.  
 
-Other (often-related) interests include the economic history and long-run effects of racial discrimination in South Africa, and evaluating the developmental impacts of policy successes and failures in the country today. I have done economic advisory work on social grant policy for the South African Presidency and National Treasury, and currently am involved in evaluating a large public employment programme with the Presidency. 
+Other (often-related) interests include the economic history and long-run effects of racial discrimination in South Africa, and evaluating the developmental impacts of policy successes and failures in the country today. I have done economic advisory work on social grant policy for the South African Presidency and National Treasury, and currently am involved in evaluating public employment programmes with the Presidency. 
 
 Causal inference methods are an important part of my research toolkit, as is working with large administrative datasets, and collecting and using household survey data.
 
