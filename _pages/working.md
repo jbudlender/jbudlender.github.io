@@ -22,7 +22,7 @@ When firm productivity or product demand rises, workers typically share in the g
 * * * 
 
 **When the lights stay on: Electricity reliability and house prices** with Allan Davids  
-<small>[This work receives funding from the [IGC](https://www.theigc.org)]
+<small>[This research was supported by funding from the [IGC](https://www.theigc.org)]
 
 * * *
 
@@ -31,7 +31,7 @@ When firm productivity or product demand rises, workers typically share in the g
 * * *
 
 **Racial segregation in South African formal sector firms** with Ihsaan Bassier  
-<small>[This work receives funding from the [SA-TIED](https://sa-tied.wider.unu.edu/) programme]
+<small>[R&R at _[Journal of Stratification Economics](https://online.ucpress.edu/jse)_ | This research was supported by funding from the [SA-TIED](https://sa-tied.wider.unu.edu/) programme]
 
 * * *
 
