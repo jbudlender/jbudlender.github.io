@@ -26,7 +26,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
  -->
 
-I am a Senior Research Officer at the Southern Africa Labour and Development Research Unit ([SALDRU](https://www.saldru.uct.ac.za/)) at the University of Cape Town.  
+I am an academic economist (Senior Research Officer) at the Southern Africa Labour and Development Research Unit ([SALDRU](https://www.saldru.uct.ac.za/)) at the University of Cape Town.  
 
 My work is in labour and development economics, using applied microeconometric methods. I have two main research interests. The first is exploring the role of firms in the development process and in shaping wages and employment. The second is understanding the drivers of South Africa's persistently high unemployment, and policy responses to it.
 
