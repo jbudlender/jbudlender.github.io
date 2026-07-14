@@ -11,7 +11,7 @@ nav: false
 
 * * *
 **When do employers share? Rent sharing, monopsony and minimum wages** with Ihsaan Bassier  
-<small>[[Latest public version](/assets/pdf/rentsharing.pdf) | [2025 CEP Discussion Paper](https://cep.lse.ac.uk/pubs/download/dp2134.pdf)]  
+<small>[[Latest public version](/assets/pdf/rentsharing.pdf) | [2025 CEP Discussion Paper](https://cep.lse.ac.uk/pubs/download/dp2134.pdf) | [2023 SA-TIED Working Paper](https://sa-tied.wider.unu.edu/sites/default/files/Working%20Paper%20222.pdf)]  
 When firm productivity or product demand rises, workers typically share in the gains through higher wages or expanded employment. We show that this link can break sharply when monopsonistic firms are constrained by labour market institutions such as minimum wages, which increase the rent-sharing level but decrease pass-through. Revenue-productivity improvements raise revenues but not wages or employment: firms simply maintain the minimum wage and absorb the gains into higher wage markdowns. We find compelling evidence for these predictions using South African administrative data, based on a cross-sectional kink design as well as responses to firm-specific internal and shift-share trade shocks.  These results reveal a previously overlooked monopsonistic margin---productivity-induced markdown adjustment---and we show using a structural model that this substantially diminishes the intended returns of policies such as employment subsidies.  
 {: style="text-align: justify"}
 
